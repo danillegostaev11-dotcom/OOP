@@ -24,7 +24,6 @@ var myLibrary = [
     }
 ];
 
-console.log("=== Демонстрация функции introduceYourself ===");
 console.log(introduceYourself('Петр', 30));
 console.log(introduceYourself('Анна'));
 console.log(introduceYourself('Иван', 25));
